@@ -1,0 +1,33 @@
+{
+  "name": "ai-dead-code",
+  "version": "1.0.0",
+  "description": "Find unused exports, functions, and variables in your JavaScript/TypeScript codebase",
+  "main": "index.js",
+  "bin": {
+    "ai-dead-code": "./index.js"
+  },
+  "keywords": [
+    "dead-code",
+    "unused",
+    "exports",
+    "cleanup",
+    "cli",
+    "lint",
+    "refactor"
+  ],
+  "author": "LXGIC Studios",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lxgicstudios/ai-dead-code"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "glob": "^10.3.10",
+    "ora": "^5.4.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
