@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxgicstudios/ai-dead-code"
+    "url": "git+https://github.com/LXGIC-Studios/ai-dead-code.git"
   },
   "dependencies": {
     "chalk": "^4.1.2",
@@ -29,5 +29,13 @@
   },
   "engines": {
     "node": ">=16.0.0"
+  },
+  "homepage": "https://github.com/LXGIC-Studios/ai-dead-code#readme",
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "bugs": {
+    "url": "https://github.com/LXGIC-Studios/ai-dead-code/issues"
   }
 }
