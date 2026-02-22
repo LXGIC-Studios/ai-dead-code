@@ -13,7 +13,15 @@
     "cleanup",
     "cli",
     "lint",
-    "refactor"
+    "refactor",
+    "tree-shaking",
+    "static-analysis",
+    "javascript",
+    "typescript",
+    "nodejs",
+    "developer-tools",
+    "code-quality",
+    "bundle-size"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
